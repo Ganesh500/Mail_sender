@@ -17,7 +17,7 @@ TENANT_ID = "1c057d6e-b484-4389-9806-e7ee92872103"
 SENDER_EMAIL = "sanket.gardi@cotmac.io"
 
 # Recipient mailbox
-RECIPIENT_EMAIL = "sanket.gardi@cotmac.io"
+RECIPIENT_EMAIL = "cepl.neo@cotmac.io"
 
 TOKEN_URL = f"https://login.microsoftonline.com/{TENANT_ID}/oauth2/v2.0/token"
 
